@@ -1,0 +1,7 @@
+Proxy server handling http requests.
+
+Tested with telnet, works with most http sites.
+Tested with Mozilla Firefox, works with http://pythontutor.com/.
+    Due to Mozilla's yearning to make all sights https, this was the only website I could find where this did not occur.
+
+csapp.h and csapp.c taken from the CS:APP Proxy Lab on http://csapp.cs.cmu.edu/3e/labs.html
